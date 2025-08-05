@@ -1,0 +1,15 @@
+[streamlit]
+debug = false
+
+[database]
+path = "user_data/lead_audit.db"
+
+[ollama]
+reasoning_model = "gemma3:12b-it-qat"
+embedding_model = "mxbai-embed-large"
+
+[nominatim]
+user_agent = "LeadGenPro/1.0 (your-email@example.com)"
+
+[company]
+profile_path = "company_profile.txt"

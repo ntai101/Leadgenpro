@@ -1,0 +1,102 @@
+timestamp,api_service,cost,query_info
+2025-07-23T03:27:46+00:00,google_places_textsearch,0.032,brewery Toronto
+2025-07-23T03:29:28+00:00,google_places_textsearch,0.032,brewery Toronto
+2025-07-23T03:44:45+00:00,google_places_textsearch,0.032,brewery Toronto
+2025-07-23T03:47:21+00:00,google_places_searchText,0.035,brewery in Toronto
+2025-07-23T03:54:53+00:00,google_places_searchText,0.035,microbreweries in ontario
+2025-07-23T03:59:04+00:00,google_places_searchText,0.035,microbreweries in ontario
+2025-07-23T04:01:46+00:00,google_places_searchText,0.035,microbreweries in ontario
+2025-07-23T04:01:48+00:00,pagespeed_insights,0.0,hophousewaterloo.com
+2025-07-23T04:02:14+00:00,google_cse,0.005,'@hophousewaterloo.com' contact
+2025-07-23T04:02:14+00:00,google_cse,0.005,'@hophousewaterloo.com' email
+2025-07-23T04:02:15+00:00,google_cse,0.005,site:hophousewaterloo.com contact
+2025-07-23T04:02:16+00:00,pagespeed_insights,0.0,othmansbarbershop.ca
+2025-07-23T04:02:30+00:00,google_cse,0.005,'@othmansbarbershop.ca' contact
+2025-07-23T04:02:31+00:00,google_cse,0.005,'@othmansbarbershop.ca' email
+2025-07-23T04:02:31+00:00,google_cse,0.005,site:othmansbarbershop.ca contact
+2025-07-23T04:02:32+00:00,pagespeed_insights,0.0,othmansbarbershop.ca
+2025-07-23T04:02:50+00:00,google_cse,0.005,'@othmansbarbershop.ca' contact
+2025-07-23T04:02:51+00:00,google_cse,0.005,'@othmansbarbershop.ca' email
+2025-07-23T04:02:51+00:00,google_cse,0.005,site:othmansbarbershop.ca contact
+2025-07-23T04:02:52+00:00,pagespeed_insights,0.0,esso.ca
+2025-07-23T04:28:45+00:00,google_places_searchText,0.035,Micro breweries in GTA
+2025-07-23T04:28:47+00:00,pagespeed_insights,0.0,hophousewaterloo.com
+2025-07-23T04:29:11+00:00,google_cse,0.005,'@hophousewaterloo.com' contact
+2025-07-23T04:29:12+00:00,google_cse,0.005,'@hophousewaterloo.com' email
+2025-07-23T04:29:12+00:00,google_cse,0.005,site:hophousewaterloo.com contact
+2025-07-23T04:29:13+00:00,pagespeed_insights,0.0,esso.ca
+2025-07-23T04:29:38+00:00,google_cse,0.005,'@esso.ca' contact
+2025-07-23T04:29:39+00:00,google_cse,0.005,'@esso.ca' email
+2025-07-23T04:29:40+00:00,google_cse,0.005,site:esso.ca contact
+2025-07-23T04:29:41+00:00,pagespeed_insights,0.0,pioneer.ca
+2025-07-23T04:30:03+00:00,google_cse,0.005,'@pioneer.ca' contact
+2025-07-23T04:30:04+00:00,google_cse,0.005,'@pioneer.ca' email
+2025-07-23T04:30:04+00:00,google_cse,0.005,site:pioneer.ca contact
+2025-07-23T04:30:05+00:00,pagespeed_insights,0.0,superebikes.ca
+2025-07-23T04:30:30+00:00,google_cse,0.005,'@superebikes.ca' contact
+2025-07-23T04:30:30+00:00,google_cse,0.005,'@superebikes.ca' email
+2025-07-23T04:30:31+00:00,google_cse,0.005,site:superebikes.ca contact
+2025-07-23T04:30:32+00:00,pagespeed_insights,0.0,facebook.com
+2025-07-23T04:30:47+00:00,google_cse,0.005,'@facebook.com' contact
+2025-07-23T04:30:48+00:00,google_cse,0.005,'@facebook.com' email
+2025-07-23T04:30:48+00:00,google_cse,0.005,site:facebook.com contact
+2025-07-23T04:30:49+00:00,pagespeed_insights,0.0,walmart.ca
+2025-07-23T04:31:14+00:00,google_cse,0.005,'@walmart.ca' contact
+2025-07-23T04:31:15+00:00,google_cse,0.005,'@walmart.ca' email
+2025-07-23T04:31:16+00:00,google_cse,0.005,site:walmart.ca contact
+2025-07-23T04:31:17+00:00,pagespeed_insights,0.0,motioncares.ca
+2025-07-23T04:31:40+00:00,google_cse,0.005,'@motioncares.ca' contact
+2025-07-23T04:31:40+00:00,google_cse,0.005,'@motioncares.ca' email
+2025-07-23T04:31:41+00:00,google_cse,0.005,site:motioncares.ca contact
+2025-07-23T04:31:42+00:00,pagespeed_insights,0.0,renfrewhosp.com
+2025-07-23T04:31:57+00:00,google_cse,0.005,'@renfrewhosp.com' contact
+2025-07-23T04:31:58+00:00,google_cse,0.005,'@renfrewhosp.com' email
+2025-07-23T04:31:58+00:00,google_cse,0.005,site:renfrewhosp.com contact
+2025-07-23T04:31:59+00:00,pagespeed_insights,0.0,steelnink.com
+2025-07-23T04:32:24+00:00,google_cse,0.005,'@steelnink.com' contact
+2025-07-23T04:32:25+00:00,google_cse,0.005,'@steelnink.com' email
+2025-07-23T04:32:25+00:00,google_cse,0.005,site:steelnink.com contact
+2025-07-23T04:32:26+00:00,pagespeed_insights,0.0,esso.ca
+2025-07-23T04:32:51+00:00,google_cse,0.005,'@esso.ca' contact
+2025-07-23T04:32:52+00:00,google_cse,0.005,'@esso.ca' email
+2025-07-23T04:32:52+00:00,google_cse,0.005,site:esso.ca contact
+2025-07-23T04:32:53+00:00,pagespeed_insights,0.0,esso.ca
+2025-07-23T04:32:57+00:00,google_cse,0.005,'@esso.ca' contact
+2025-07-23T04:32:58+00:00,google_cse,0.005,'@esso.ca' email
+2025-07-23T04:32:58+00:00,google_cse,0.005,site:esso.ca contact
+2025-07-23T04:32:59+00:00,pagespeed_insights,0.0,inverenergy.ie
+2025-07-23T04:33:24+00:00,google_cse,0.005,'@inverenergy.ie' contact
+2025-07-23T04:33:25+00:00,google_cse,0.005,'@inverenergy.ie' email
+2025-07-23T04:33:25+00:00,google_cse,0.005,site:inverenergy.ie contact
+2025-07-23T04:33:26+00:00,pagespeed_insights,0.0,esso.ca
+2025-07-23T04:33:26+00:00,google_cse,0.005,'@esso.ca' contact
+2025-07-23T04:33:27+00:00,google_cse,0.005,'@esso.ca' email
+2025-07-23T04:33:27+00:00,google_cse,0.005,site:esso.ca contact
+2025-07-23T04:33:28+00:00,pagespeed_insights,0.0,estetica.com
+2025-07-23T04:33:43+00:00,google_cse,0.005,'@estetica.com' contact
+2025-07-23T04:33:44+00:00,google_cse,0.005,'@estetica.com' email
+2025-07-23T04:33:45+00:00,google_cse,0.005,site:estetica.com contact
+2025-07-23T04:33:46+00:00,pagespeed_insights,0.0,wa.me
+2025-07-23T04:34:11+00:00,google_cse,0.005,'@wa.me' contact
+2025-07-23T04:34:11+00:00,google_cse,0.005,'@wa.me' email
+2025-07-23T04:34:12+00:00,google_cse,0.005,site:wa.me contact
+2025-07-23T04:34:13+00:00,pagespeed_insights,0.0,bearcreekgas.ca
+2025-07-23T04:34:38+00:00,google_cse,0.005,'@bearcreekgas.ca' contact
+2025-07-23T04:34:39+00:00,google_cse,0.005,'@bearcreekgas.ca' email
+2025-07-23T04:34:39+00:00,google_cse,0.005,site:bearcreekgas.ca contact
+2025-07-23T04:34:40+00:00,pagespeed_insights,0.0,shoelessjoes.ca
+2025-07-23T04:50:45+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T04:53:28+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T04:56:31+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T04:57:46+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T04:58:21+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T04:59:48+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T05:00:08+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T05:00:26+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T05:01:21+00:00,google_geocoding,0.005,gta
+2025-07-23T05:01:31+00:00,google_geocoding,0.005,hamilton
+2025-07-23T05:01:40+00:00,google_geocoding,0.005,"hamilton, ON"
+2025-07-23T05:02:57+00:00,google_geocoding,0.005,"Toronto, ON"
+2025-07-23T05:03:12+00:00,google_geocoding,0.005,"Muskoka, ON"
+2025-07-23T05:08:18+00:00,google_geocoding,0.005,"Muskoka, ON"
+2025-07-23T05:08:18+00:00,google_places_searchText_nearby,0.035,"brewery near 45.1090674,-79.5875195"

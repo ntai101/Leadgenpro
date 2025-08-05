@@ -1,0 +1,44 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# IDE and OS-specific files
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# --- CRUCIAL FOR THIS PROJECT ---
+
+# Ignore the file containing all secrets and API keys.
+# DO NOT COMMIT THIS FILE TO A PUBLIC REPOSITORY.
+.env
+
+# Ignore the user data directory. This contains the live database,
+# logs, and screenshots. It should not be under version control.
+# If you need to share a sample schema, create a separate 'sample.db'.
+user_data/
+
+# Log files
+*.log
+logs/
+
+# Notebook checkpoints
+.ipynb_checkpoints

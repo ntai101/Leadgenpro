@@ -1,0 +1,27 @@
+# requirements.txt
+
+# Core framework
+streamlit>=1.30.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Excel and .env support
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+
+# API calls and HTTP
+requests>=2.30.0
+
+# Advanced UI
+streamlit-aggrid>=0.3.4
+pydeck>=0.8.0
+
+# OCR and automation (optional but used)
+selenium>=4.10.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+webdriver-manager>=4.0.0
+
+# Config parsing
+toml>=0.10.2
